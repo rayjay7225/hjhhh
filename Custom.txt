@@ -13,3 +13,4 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 umwatson.events.data.microsoft.com
 watson.telemetry.microsoft.com
+*.bing.com*
