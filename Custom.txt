@@ -1,3 +1,8 @@
+# microsoft is pipi pupu 
+# so here are domains to
+# block some microsoft 
+# windows spying poo poo
+
 browser.events.data.msn.com
 browser.events.data.microsoft.com
 config.edge.skype.com
