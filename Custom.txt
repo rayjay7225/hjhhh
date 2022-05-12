@@ -1,0 +1,10 @@
+browser.events.data.msn.com
+browser.events.data.microsoft.com
+config.edge.skype.com
+cxcs.microsoft.net
+evoke-windowsservices-tas.msedge.net
+self.events.data.microsoft.com
+settings-win.data.microsoft.com
+settings.data.microsoft.com
+umwatson.events.data.microsoft.com
+watson.telemetry.microsoft.com
